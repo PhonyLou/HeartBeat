@@ -1,5 +1,7 @@
 # HeartBeat User Guide（2020/06，Version 1）
 
+[![Build Status](https://travis-ci.org/PhonyLou/HeartBeat.svg?branch=travis)](https://travis-ci.org/PhonyLou/HeartBeat)
+
 # 1 About HeartBeat
 
 HeartBeat is a tool for tracking project delivery metrics that can help you get a better understanding of delivery performance. This product allows you easily get all aspects of source data faster and more accurate to analyze team delivery performance which enables delivery teams and team leaders focusing on driving continuous improvement and enhancing team productivity and efficiency.
